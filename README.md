@@ -1,1 +1,2 @@
-# first_ci_demo
+# first-ci-demo
+Simple Python CI demonstration using GitHub Actions.
